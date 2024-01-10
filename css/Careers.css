@@ -5,5 +5,380 @@
 }
 
 body {
-    font-family: "Space Mono", "monospace", sans-serif;
+    font-family: "Lexend Deca", sans-serif;
+    font-family: "Space Mono", monospace;
+}
+
+.site-header {
+    background-color: #fff;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.container {
+    width: 1110px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.site-logo {
+    margin-right: 58px;
+}
+
+.sitenav {
+    width: 276px;
+    height: 25px;
+    margin-left: -40%;
+}
+
+.header-item {
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.header-list {
+    display: flex;
+    align-items: center;
+}
+
+.header-link1 {
+    width: 46px;
+    height: 25px;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 25px;
+    text-align: left;
+    color:  #939CAA;
+    text-decoration: none;
+    margin-right: 32px;
+}
+
+.header-link1:active {
+    color: #FCB72B;
+}
+
+.header-link2 {
+    width: 74px;
+    height: 25px;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 25px;
+    text-align: left;
+    color:  #939CAA;
+    text-decoration: none;
+    margin-right: 32px;
+}
+
+.header-link2:active {
+    color: #FCB72B;
+}
+
+.header-link3 {
+    width: 65px;
+    height: 25px;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 25px;
+    text-align: left;
+    color:  #939CAA;
+    text-decoration: none;
+    margin-right: 32px;
+}
+
+.header-link3:active {
+    color: #FCB72B;
+}
+
+.header-link-btn {
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0px;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background-color: #FCB72B;
+    padding: 14px 39px 14px 39px;
+}
+
+.header-link-btn:active {
+    width: 183px;
+    height: 53px;
+    color: #FCB72B;
+    background-color: #fff;
+    border: 2px solid #FCB72B;
+}
+
+.about-section {
+    margin-bottom: 360px;
+}
+
+.about-container {
+    width: 1110px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.about-title {
+    width: 162px;
+    height: 56px;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: -2.5px;
+    text-align: left;
+    margin-top: -12%;
+    margin-bottom: 120px;
+    color: #fff;
+}
+
+.mobility-section {
+    margin-bottom: 280px;
+    background-image: url("../images/Care-Careers-img.png");
+    background-repeat: no-repeat;
+    p
+}
+
+.mobility-container {
+    width: 1110px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.mobility-title {
+    width: 445px;
+    height: 96px;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -2.142857074737549px;
+    text-align: left;
+    color: #495567;
+    margin-bottom: 24px;
+}
+
+.mobility-text {
+    width: 445px;
+    height: 100px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #939CAA;
+    margin-bottom: 50px;
+}
+
+.care-btn {
+    font-family: Space Mono;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0px;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 44px 14px 44px;
+    background-color: #FCB72B;
+    color: #fff;
+}
+
+.care-btn:active {
+    color: #FCB72B;
+    background-color: #fff;
+    border: 2px solid #FCB72B;
+}
+
+.mmm {
+    width: 70%;
+    position: relative;
+    margin: -400px 0px 0px 535px;
+}
+
+.our-container {
+    width: 1110px;
+    height: 610px;
+    margin: 0 auto;
+    display: flex;
+    margin-bottom: 120px;
+}
+
+.our-title {
+    width: 540px;
+    height: 48px;
+    font-family: Space Mono;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -2.142857074737549px;
+    text-align: center;
+    color: #495567;
+    margin-bottom: 48px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.our-wrap1 {
+    width: 350px;
+    height: 510px;
+    margin-right: 30px;
+}
+
+.one {
+    margin-bottom: 32px;
+}
+
+.our-wrap2 {
+    width: 350px;
+    height: 510px;
+    margin-right: 30px;
+}
+
+.two {
+    margin-bottom: 32px;
+}
+
+.our-wrap3 {
+    width: 350px;
+    height: 510px;
+}
+
+.three {
+    margin-bottom: 32px;
+}
+
+.our-wrap-title {
+    width: 350px;
+    height: 28px;
+    font-family: Space Mono;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: -1.0714285373687744px;
+    text-align: center;
+    color: #495567;
+    margin-bottom: 27px;
+}
+
+.our-wrap-text {
+    width: 350px;
+    height: 75px;
+    font-family: Lexend Deca;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: #939CAA;    
+}
+
+
+
+
+.sign-section {
+    padding: 100px 0px 100px 0px;
+    background-repeat: repeat;
+    margin-top: -200px;
+}
+
+.sign-container {
+    width: 1110px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sign-title {
+    width: 360px;
+    height: 96px;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -2.142857074737549px;
+    text-align: left;
+    color: #fff;
+}
+
+.sign-link {
+    margin-right: 18px;
+    text-decoration: none;
+}
+
+footer {
+    padding-top: 35px;
+    padding-bottom: 35px;
+    background-color: #333A44;
+}
+
+.foter-container {
+    width: 1110px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+}
+
+.foter-logo {
+    text-decoration: none;
+    margin-right: 70px;
+}
+
+.f-links1 {
+    width: 46px;
+    height: 25px;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #939CAA;
+    text-decoration: none;
+    margin-right: 32px;
+}
+
+.f-links1:active {
+    color: #FCB72B;
+}
+
+.f-links2 {
+    width: 74px;
+    height: 25px;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #939CAA;
+    text-decoration: none;
+    margin-right: 32px;
+}
+
+.f-links2:active {
+    color: #FCB72B;
+}
+
+.f-links3 {
+    width: 65px;
+    height: 25px;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #939CAA;
+    text-decoration: none;
+    margin-right: 520px;
+}
+
+.f-links3:active {
+    color: #FCB72B;
+}
+
+.sorshal-media {
+    text-decoration: none;
+    margin-right: 24px;
 }

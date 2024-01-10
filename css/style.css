@@ -27,11 +27,6 @@ body {
     margin-right: 58px;
 }
 
-.logo {
-    
-    
-}
-
 .sitenav {
     width: 276px;
     height: 25px;
@@ -118,13 +113,6 @@ body {
 }
 
 .section-hero {
-    /*    background-image: url(../images/home-hero-desktop.jpg);
-    padding-top: 25px;
-    padding-bottom: 155px;
-    width: 100%;
-    background-repeat: no-repeat;
-    margin-left: auto;
-    margin-right: auto;*/
     margin-bottom: 348px;
 }
 
@@ -265,9 +253,6 @@ body {
     padding: 0 20px;
 }
 
-.easy-wrap {
-}
-
 .easy-title {
     width: 445px;
     height: 96px;
@@ -384,9 +369,6 @@ body {
     width: 1110px;
     margin: 0 auto;
     padding: 0 20px;
-}
-
-.zero-wrap {
 }
 
 .zero-title {
