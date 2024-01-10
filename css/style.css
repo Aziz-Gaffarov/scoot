@@ -310,9 +310,9 @@ body {
 }
 
 .eee {
-    width: 80%;
-    position: absolute;
-    margin: -370px 0px 0px 300px;
+    width: 105%;
+    position: relative;
+    margin: -370px 0px 0px 535px;
 }
 
 .coming-section {
@@ -371,7 +371,7 @@ body {
 }
 
 .ccc {
-    width: 600%;
+    width: 560%;
     position: relative;
     margin: -380px 0px 0px -1200px;
 }
@@ -431,16 +431,15 @@ body {
 }
 
 .zzz {
-    width: 74%;
-    position: absolute;
-    margin: -370px 0px 0px 440px;
+    width: 100%;
+    position: relative;
+    margin: -370px 0px 0px 640px;
 }
 
 .sign-section {
-    margin-top: 200px;
-    background-image: url("../images/Sign-up-bg.img.png");
     padding: 100px 0px 100px 0px;
     background-repeat: repeat;
+    margin-top: -200px;
 }
 
 .sign-container {
