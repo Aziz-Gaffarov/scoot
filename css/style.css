@@ -120,6 +120,7 @@ body {
     width: 1110px;
     margin: 0 auto;
     padding: 0 20px;
+    margin-top: -642px;
 }
 
 .line {
@@ -138,7 +139,7 @@ body {
     height: 120px;
 }
 
-.ooo {
+.white-img {
     position: relative;
     right: -94.9%;
     bottom: -344px;
@@ -220,6 +221,10 @@ body {
     margin-right: 30px;
 }
 
+.box img {
+    margin-bottom: 40px;
+}
+
 .hero-bottom-title {
     width: 350px;
     height: 28px;
@@ -294,10 +299,10 @@ body {
     background-color: #fff;
 }
 
-.eee {
-    width: 105%;
+.easy-img {
+    width: 70%;
     position: relative;
-    margin: -370px 0px 0px 535px;
+    margin: -370px 0px 0px 546px;
 }
 
 .coming-section {
@@ -355,10 +360,10 @@ body {
     border: 2px solid #FCB72B;
 }
 
-.ccc {
-    width: 560%;
+.coming-img {
+    width: 350%;
     position: relative;
-    margin: -380px 0px 0px -1200px;
+    margin: -380px 0px 0px -794px;
 }
 
 .zero-section {
@@ -412,10 +417,10 @@ body {
     border: 2px solid #FCB72B;
 }
 
-.zzz {
-    width: 100%;
+.zero-img {
+    width: 60%;
     position: relative;
-    margin: -370px 0px 0px 640px;
+    margin: -370px 0px 0px 654px;
 }
 
 .sign-section {
@@ -428,9 +433,11 @@ body {
     width: 1110px;
     margin: 0 auto;
     padding: 0 20px;
+    margin-top: -200px;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-top: -200px;
 }
 
 .sign-title {
@@ -468,7 +475,7 @@ footer {
     margin-right: 58px;
 }
 
-.f-links1 {
+.footer-links1 {
     width: 46px;
     height: 25px;
     font-size: 15px;
@@ -481,11 +488,11 @@ footer {
     margin-right: 32px;
 }
 
-.f-links1:active {
+.footer-links1:active {
     color: #FCB72B;
 }
 
-.f-links2 {
+.footer-links2 {
     width: 74px;
     height: 25px;
     font-size: 15px;
@@ -498,11 +505,11 @@ footer {
     margin-right: 32px;
 }
 
-.f-links2:active {
+.footer-links2:active {
     color: #FCB72B;
 }
 
-.f-links3 {
+.footer-links3 {
     width: 65px;
     height: 25px;
     font-size: 15px;
@@ -515,7 +522,7 @@ footer {
     margin-right: 520px;
 }
 
-.f-links3:active {
+.footer-links3:active {
     color: #FCB72B;
 }
 
