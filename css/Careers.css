@@ -273,6 +273,10 @@ body {
     margin-bottom: 24px;
 }
 
+.general-box:active {
+    background-color: #FFF4DF;
+}
+
 .general-text-box {
     width: 650px;
     height: 60px;
